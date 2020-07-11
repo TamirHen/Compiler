@@ -1,7 +1,4 @@
 # Compiler
 
-This compiler was written in c language and flex tool by Tamir Hen.
-It contains:
-  Semantic Analyzer,
-  Syntactic Analyzer (Parser) and
-  Semantic Analyzer.
+This compiler was written in C language and Flex tool by Tamir Hen.
+It contains Semantic Analyzer, Syntactic Analyzer (with recursive descent structure) and Semantic Analyzer.
