@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HomeWork_Compilation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  parser.c
+  semanticFunctions.c
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\parser.c(673,69): warning C4020: 'parse_VAR_tag': too many actual parameters
+  symbolTable.c
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\semanticFunctions.c(34,9): warning C4033: 'duplicateDeclarationInSameScopeForbidden' must return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\symbolTable.c(3,1): warning C4005: 'NULL': macro redefinition
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vcruntime.h(232): message : see previous definition of 'NULL'
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\symbolTable.c(114,9): warning C4101: 'j': unreferenced local variable
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\symbolTable.c(194,6): warning C4101: 'a': unreferenced local variable
+  Token.c
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\symbolTable.c(195,26): warning C4101: 'q': unreferenced local variable
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(25,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(105,10): warning C4033: 'back_token' must return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(110,10): warning C4033: 'back_token' must return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(119,9): warning C4033: 'back_token' must return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(148,10): warning C4033: 'next_token' must return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(151,8): warning C4013: 'yylex' undefined; assuming extern returning int
+  win.lex.yy.c
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(166,10): warning C4033: 'next_token' must return a value
+Grammer_G.lex(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+Grammer_G.lex(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(123): warning C4715: 'back_token': not all control paths return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\Token.c(185): warning C4715: 'next_token': not all control paths return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\semanticFunctions.c(59): warning C4716: 'varMustBeUsedAtLeastOnce': must return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\semanticFunctions.c(45): warning C4715: 'duplicateDeclarationInSameScopeForbidden': not all control paths return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\parser.c(756): warning C4715: 'parse_VAR_tag': not all control paths return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\parser.c(867): warning C4715: 'parse_EXPR_tag': not all control paths return a value
+\\Mac\Home\Desktop\My Work\Compiler\Compiler\HomeWork_Compilation\parser.c(928): warning C4715: 'parse_TERM_tag': not all control paths return a value
+  HomeWork_Compilation.vcxproj -> \\Mac\Home\Desktop\My Work\Compiler\Compiler\x64\Debug\Compiler.exe

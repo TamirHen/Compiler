@@ -1,0 +1,6 @@
+﻿  parser.c
+C:\HomeWork\HomeWork_Compilation\HomeWork_Compilation\parser.c(673,69): warning C4020: 'parse_VAR_tag': too many actual parameters
+C:\HomeWork\HomeWork_Compilation\HomeWork_Compilation\parser.c(756): warning C4715: 'parse_VAR_tag': not all control paths return a value
+C:\HomeWork\HomeWork_Compilation\HomeWork_Compilation\parser.c(867): warning C4715: 'parse_EXPR_tag': not all control paths return a value
+C:\HomeWork\HomeWork_Compilation\HomeWork_Compilation\parser.c(928): warning C4715: 'parse_TERM_tag': not all control paths return a value
+  HomeWork_Compilation.vcxproj -> C:\HomeWork\HomeWork_Compilation\Debug\HomeWork_Compilation.exe

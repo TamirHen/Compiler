@@ -1,0 +1,15 @@
+Students ids:
+1. 204536676
+2. 204863633
+3. 204780969
+
+Students names:
+1. Tamir Hen
+2. Yonatan Costa
+3. Tomer Teperovich
+
+Operating system:
+Windows 10 - 64Bit
+
+Development enviroment:
+Visual Studio 2019
